@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-brokeanimastylereference"
+description = "Training-free style reference for Anima: AdaIN against a noised picture after every DiT block. Takes palette, tonality and texture, not the subject."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/BetaDoggo/ComfyUI-BrokeAnimaStyleReference"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Broke Anima Style Reference"
+Icon = ""
+includes = []
