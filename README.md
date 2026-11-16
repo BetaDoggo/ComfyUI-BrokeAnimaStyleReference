@@ -3,6 +3,9 @@
 A shitty vibed up training-free style reference method for Anima, as one ComfyUI node. Only tested on turbo because
 I'm lazy.
 
+<img width="1537" height="985" alt="image" src="https://github.com/user-attachments/assets/353fc2c4-9f76-4800-b2cc-678168e5c192" />
+
+
 This is the node on its own. If you use SwarmUI, install the
 [SwarmUI extension](https://github.com/BetaDoggo/SwarmUI-BrokeAnimaStyleReference) instead: it adds the parameters to
 SwarmUI and brings this node with it for self-started ComfyUI backends. Install this repository too only when SwarmUI
